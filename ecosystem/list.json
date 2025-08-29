@@ -49,8 +49,8 @@
     "type": "ecosystem"
   },
   {
-    "id": "scan",
-    "name": "Pione Scan",
+    "id": "explorer_pionechain",
+    "name": "Explorer",
     "website": "https://pionescan.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/scan.png",
     "type": "ecosystem"
