@@ -1,74 +1,107 @@
 [
   {
-    "id": 1,
+    "id": "ai",
     "name": "Pione AI",
-    "website": "https://ai.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/ai.png"
+    "website": "https://pioai.net",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/ai.png",
+    "type": "ecosystem"
   },
   {
-    "id": 2,
+    "id": "care",
     "name": "Pione Care",
-    "website": "https://care.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/care.png"
+    "website": "https://pionecare.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/care.png",
+    "type": "ecosystem"
   },
   {
-    "id": 3,
+    "id": "chain",
     "name": "Pione Chain",
-    "website": "https://chain.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/chain.png"
+    "website": "https://pionechain.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/chain.png",
+    "type": "ecosystem"
   },
   {
-    "id": 4,
+    "id": "dream",
     "name": "Pione Dream",
-    "website": "https://dream.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dream.png"
+    "website": "https://pionedream.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dream.png",
+    "type": "ecosystem"
   },
   {
-    "id": 5,
-    "name": "Expione",
-    "website": "https://expione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/expione.png"
-  },
-  {
-    "id": 6,
+    "id": "farm",
     "name": "Pione Farm",
-    "website": "https://farm.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/farm.png"
+    "website": "https://pionefarm.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/farm.png",
+    "type": "ecosystem"
   },
   {
-    "id": 7,
-    "name": "Pione Game",
-    "website": "https://game.pione.network", 
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/game.png"
-  },
-  {
-    "id": 8,
+    "id": "group",
     "name": "Pione Group",
-    "website": "https://group.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/group.png"
+    "website": "https://pionegroup.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/group.png",
+    "type": "ecosystem"
   },
   {
-    "id": 9,
+    "id": "house",
     "name": "Pione House",
-    "website": "https://house.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/house.png"
+    "website": "https://pionehouse.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/house.png",
+    "type": "ecosystem"
   },
   {
-    "id": 10,
+    "id": "scan",
     "name": "Pione Scan",
-    "website": "https://scan.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/scan.png"
+    "website": "https://pionescan.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/scan.png",
+    "type": "ecosystem"
   },
   {
-    "id": 11,
-    "name": "Pione Swap",
-    "website": "https://swap.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png"
-  },
-  {
-    "id": 12,
+    "id": "wallet",
     "name": "Pione Wallet",
-    "website": "https://wallet.pione.network",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/wallet.png"
+    "website": "https://pionewallet.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/wallet.png",
+    "type": "ecosystem"
+  },
+  {
+    "id": "mintnft",
+    "name": "MintNFT",
+    "website": "https://nft.pionewallet.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/mint_nft.png",
+    "type": "dapp"
+  },
+  {
+    "id": "expione",
+    "name": "Expione",
+    "website": "https://expione.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/expione.png",
+    "type": "dapp"
+  },
+  {
+    "id": "game",
+    "name": "Pione Game",
+    "website": "https://xiangqi.pionegame.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/game.png",
+    "type": "dapp"
+  },
+  {
+    "id": "swap",
+    "name": "Pione Swap",
+    "website": "https://pioneswap.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png",
+    "type": "dapp"
+  },
+  {
+    "id": "dex",
+    "name": "Dex",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dex.png",
+    "website": "https://dex.pionechain.com",
+    "type": "dapp"
+  },
+  {
+    "id": "earn",
+    "name": "Earn",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/earn.png",
+    "website": "https://miniappweb3.pionebot.com",
+    "type": "dapp"
   }
 ]
