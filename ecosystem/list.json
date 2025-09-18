@@ -35,6 +35,13 @@
         "type": "ecosystem"
     },
     {
+        "id": "zero_chain",
+        "name": "Pione Zero Chain",
+        "url": "https://zeroscan.org",
+        "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/zero_chain.png",
+        "type": "ecosystem"
+    },
+    {
         "id": "dream",
         "name": "Pione Dream",
         "url": "https://pionedream.com",
