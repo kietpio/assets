@@ -91,6 +91,13 @@
         "type": "dapp"
     },
     {
+        "id": "swap",
+        "name": "Pione Swap",
+        "url": "https://pioneswap.com",
+        "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png",
+        "type": "dapp"
+    },
+    {
         "id": "dex",
         "name": "Dex",
         "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dex.png",

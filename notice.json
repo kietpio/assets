@@ -1,25 +1,59 @@
 {
-  "id": "pione_coin_listing",
+  "id": "pione_presale_affiliate",
   "type": "announcement",
-  "title": "PIONE CHAIN (PIO) CHÍNH THỨC NIÊM YẾT TRÊN SÀN GIAO DỊCH PHI TẬP TRUNG (DEX)!",
+  "title": "🚀 PRESALE AFFILIATE UP TO $14,000 – PIONE CHAIN (PIO) ON PINKSALE",
   "paragraphs": [
-    "📢 Pione Group trân trọng thông báo:",
+    "Join our Affiliate Program and earn up to 5% commission from the total presale volume — with a $14,000 reward pool!",
+    "Help promote Pione Chain (PIO) — our flagship Layer-1 for RWA, DeFi & NFT, now live on Pinksale.",
+    "Early referrers can earn 5% commission and become strategic partners of Pione Group.",
+    "",
     {
       "parts": [
-        { "text": "💥 PIONE CHAIN (PIO) sẽ chính thức được niêm yết trên sàn giao dịch phi tập trung (DEX) vào ngày ", "highlight": false },
-        { "text": "01/11/2025", "highlight": true },
-        { "text": "." }
+        {
+          "text": "🔗 ",
+          "highlight": false
+        },
+        {
+          "text": "Join Presale Now",
+          "highlight": true,
+          "webviewUrl": "https://www.pinksale.finance/launchpad/bsc/0xbDacb3Fe8ac2E4406EB7eAC886962387AD16160f?refId=0xd51d20cfd357ee78ae7b8f4547ca2f3675ffd268"
+        }
       ]
     },
-    "Sự kiện này đánh dấu bước tiến quan trọng trong lộ trình phát triển của Pione Group, khẳng định cam kết về tính minh bạch, phát triển bền vững và mở rộng thanh khoản toàn cầu cho hệ sinh thái PIONE CHAIN.",
-    "🤝 Chúng tôi trân trọng mời Quý đối tác và cộng đồng cùng đồng hành, chào đón cột mốc đáng nhớ này.",
+    "💎 Own PIO (BEP20) before PancakeSwap listing (Nov 1)",
+    "🔥 Limited Presale: 0.1 USDT | 2.8 M PIO only",
     {
       "parts": [
-        { "text": "Trân trọng,\n", "highlight": true },
-        { "text": "Pione Labs Team" }
+        {
+          "text": "🌐 ",
+          "highlight": false
+        },
+        {
+          "text": "pionechain.com",
+          "highlight": true,
+          "url": "https://pionechain.com"
+        },
+        {
+          "text": " | ",
+          "highlight": false
+        },
+        {
+          "text": "pioneswap.com",
+          "highlight": true,
+          "url": "https://pioneswap.com"
+        },
+        {
+          "text": " | ",
+          "highlight": false
+        },
+        {
+          "text": "t.me/pionechain",
+          "highlight": true,
+          "url": "https://t.me/pionechain"
+        }
       ]
     }
   ],
-  "createdAt": "2025-10-18T09:00:00Z",
+  "createdAt": "2025-10-29T09:00:00Z",
   "status": "active"
 }
