@@ -1,59 +1,51 @@
 {
-  "id": "pione_presale_affiliate",
+  "id": "pione_listing_pancakeswap_countdown",
   "type": "announcement",
-  "title": "🚀 PRESALE AFFILIATE UP TO $14,000 – PIONE CHAIN (PIO) ON PINKSALE",
+  "title": "🔥 PIONE CHAIN (PIO) OFFICIALLY LISTED ON PANCAKESWAP! 🚀",
   "paragraphs": [
-    "Join our Affiliate Program and earn up to 5% commission from the total presale volume — with a $14,000 reward pool!",
-    "Help promote Pione Chain (PIO) — our flagship Layer-1 for RWA, DeFi & NFT, now live on Pinksale.",
-    "Early referrers can earn 5% commission and become strategic partners of Pione Group.",
-    "",
     {
       "parts": [
         {
-          "text": "🔗 ",
+          "text": "We are pleased to announce that PIONE CHAIN (PIO) will be officially listed on the decentralized exchange PancakeSwap on ",
           "highlight": false
         },
         {
-          "text": "Join Presale Now",
-          "highlight": true,
-          "webviewUrl": "https://www.pinksale.finance/launchpad/bsc/0xbDacb3Fe8ac2E4406EB7eAC886962387AD16160f?refId=0xd51d20cfd357ee78ae7b8f4547ca2f3675ffd268"
+          "text": "November 1, 2025 (00:00 UTC).",
+          "highlight": true
         }
       ]
     },
-    "💎 Own PIO (BEP20) before PancakeSwap listing (Nov 1)",
-    "🔥 Limited Presale: 0.1 USDT | 2.8 M PIO only",
+    {
+      "timestamp": 1761955200000
+    },
     {
       "parts": [
         {
-          "text": "🌐 ",
+          "text": "Start trading today to be among the first investors to own PIONE CHAIN (PIO) ",
           "highlight": false
         },
         {
-          "text": "pionechain.com",
+          "text": "PancakeSwap.",
           "highlight": true,
-          "url": "https://pionechain.com"
-        },
+          "webviewUrl": "https://pancakeswap.finance/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0xB79c66fBB8BfE90a9E69D8250441c8DB363c40F2&chain=bsc"
+        }
+      ]
+    },
+    {
+      "parts": [
         {
-          "text": " | ",
+          "text": "🔗 Contract: ",
           "highlight": false
         },
         {
-          "text": "pioneswap.com",
+          "text": "0xB79c66fBB...DB363c40F2",
           "highlight": true,
-          "url": "https://pioneswap.com"
-        },
-        {
-          "text": " | ",
-          "highlight": false
-        },
-        {
-          "text": "t.me/pionechain",
-          "highlight": true,
-          "url": "https://t.me/pionechain"
+          "webviewUrl": "https://bscscan.com/token/0xB79c66fBB8BfE90a9E69D8250441c8DB363c40F2"
         }
       ]
     }
   ],
+  "signature": "Kind regards,\nPione Labs Team",
   "createdAt": "2025-10-29T09:00:00Z",
-  "status": "inactive"
+  "status": "active"
 }
