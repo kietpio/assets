@@ -1,51 +1,72 @@
 {
   "id": "pione_listing_pancakeswap_countdown",
   "type": "announcement",
-  "title": "🔥 PIONE CHAIN (PIO) OFFICIALLY LISTED ON PANCAKESWAP! 🚀",
   "paragraphs": [
     {
       "parts": [
         {
-          "text": "We are pleased to announce that PIONE CHAIN (PIO) will be officially listed on the decentralized exchange PancakeSwap on ",
-          "highlight": false
+          "text": "🔥 PIONE CHAIN (PIO)",
+          "textStyle": {
+            "fontSize": 24,
+            "fontWeight": "bold",
+            "color": "#F65905",
+            "textAlign": "center"
+          }
         },
         {
-          "text": "November 1, 2025 (00:00 UTC).",
-          "highlight": true
+          "text": "\n NOW LIVE ON PANCAKESWAP!",
+          "textStyle": {
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "color": "white",
+            "textAlign": "center"
+          }
         }
       ]
     },
+    "",
     {
-      "timestamp": 1761955200000
+      "infoToken": {
+        "address": "0xB79c66fBB8BfE90a9E69D8250441c8DB363c40F2",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/wallet.png",
+        "name": "PIONE CHAIN",
+        "symbol": "PIO",
+        "isNative": false,
+        "isStorage": true,
+        "isDefault": true
+      }
     },
     {
       "parts": [
         {
-          "text": "Start trading today to be among the first investors to own PIONE CHAIN (PIO) ",
-          "highlight": false
+          "text": "PIO is now available on ",
+          "highlight": false,
+          "textStyle": {
+            "fontSize": 20,
+            "fontWeight": "bold"
+          }
         },
         {
-          "text": "PancakeSwap.",
+          "text": "PancakeSwap ",
           "highlight": true,
+          "textStyle": {
+            "fontSize": 20,
+            "fontWeight": "bold"
+          },
           "webviewUrl": "https://pancakeswap.finance/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0xB79c66fBB8BfE90a9E69D8250441c8DB363c40F2&chain=bsc"
-        }
-      ]
-    },
-    {
-      "parts": [
-        {
-          "text": "🔗 Contract: ",
-          "highlight": false
         },
         {
-          "text": "0xB79c66fBB...DB363c40F2",
-          "highlight": true,
-          "webviewUrl": "https://bscscan.com/token/0xB79c66fBB8BfE90a9E69D8250441c8DB363c40F2"
+          "text": "— you can start trading right away! ",
+          "textStyle": {
+            "fontSize": 20,
+            "fontWeight": "bold"
+          }
         }
       ]
     }
   ],
-  "signature": "Kind regards,\nPione Labs Team",
   "createdAt": "2025-10-29T09:00:00Z",
   "status": "active"
 }
