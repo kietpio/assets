@@ -70,6 +70,13 @@
         "type": "ecosystem"
     },
     {
+        "id": "rwa_issuers",
+        "name": "RWA Issuers",
+        "url": "http://tokenhoataisanthuc.com",
+        "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/group.png",
+        "type": "dapp"
+    },
+    {
         "id": "mintnft",
         "name": "MintNFT",
         "url": "https://nft.pionewallet.com",
