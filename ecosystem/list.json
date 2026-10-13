@@ -72,7 +72,7 @@
     {
         "id": "rwa_issuers",
         "name": "RWA Issuers",
-        "url": "http://tokenhoataisanthuc.com",
+        "url": "https://tokenhoataisanthuc.com",
         "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/group.png",
         "type": "dapp"
     },
