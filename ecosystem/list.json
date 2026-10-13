@@ -109,7 +109,7 @@
         "name": "Dex",
         "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dex.png",
         "url": "https://dex.pionechain.com",
-        "type": "dapp"
+        "type": "ecosystem"
     },
     {
         "id": "earn",
