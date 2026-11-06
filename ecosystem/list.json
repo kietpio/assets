@@ -91,6 +91,13 @@
         "type": "dapp"
     },
     {
+        "id": "game",
+        "name": "Pione Game",
+        "url": "https://xiangqi.pionegame.com",
+        "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/game.png",
+        "type": "dapp"
+    },
+    {
         "id": "swap",
         "name": "Pione Swap",
         "url": "https://pioneswap.com",
