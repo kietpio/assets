@@ -1,27 +1,36 @@
 [
   {
-    "id": "mintnft",
-    "name": "MintNFT",
-    "url": "https://nft.pionewallet.com",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/mint_nft.png",
-    "type": "dapp",
-    "order": 2
-  },
-  {
-    "id": "swap",
-    "name": "Pione Swap",
-    "url": "https://pioneswap.com",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png",
-    "type": "dapp",
-    "order": 8
-  },
-  {
     "id": "rwa_issuers",
     "name": "RWA Issuers",
     "url": "https://pionerwa.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/group.png",
     "type": "dapp",
-    "order": 1
+    "slot": "featured",
+    "order": 1,
+    "subLabel": "Asset Issuance",
+    "accentColor": "#00C2FF"
+  },
+  {
+    "id": "mintnft",
+    "name": "MintNFT",
+    "url": "https://nft.pionewallet.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/mint_nft.png",
+    "type": "dapp",
+    "slot": "featured",
+    "order": 2,
+    "subLabel": "NFT Marketplace",
+    "accentColor": "#FF9F0A"
+  },
+  {
+    "id": "pionegenesis",
+    "name": "Faucet",
+    "url": "https://pionegenesis.com",
+    "image": "https://pionegenesis.com/logo.png",
+    "type": "dapp",
+    "slot": "standard",
+    "order": 1,
+    "subLabel": "Testnet Faucet",
+    "accentColor": "#30D158"
   },
   {
     "id": "expione",
@@ -29,7 +38,9 @@
     "url": "https://expione.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/expione.png",
     "type": "dapp",
-    "order": 4
+    "slot": "standard",
+    "order": 2,
+    "subLabel": "Ecosystem Hub"
   },
   {
     "id": "game",
@@ -37,15 +48,19 @@
     "url": "https://xiangqi.pionegame.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/game.png",
     "type": "dapp",
-    "order": 5
+    "slot": "standard",
+    "order": 3,
+    "subLabel": "Web3 Gaming Hub"
   },
   {
     "id": "dex",
     "name": "Dex",
     "url": "https://dex.pionechain.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dex.png",
-    "type": "ecosystem",
-    "order": 6
+    "type": "dapp",
+    "slot": "standard",
+    "order": 4,
+    "subLabel": "Decentralized Exchange"
   },
   {
     "id": "earn",
@@ -53,31 +68,42 @@
     "url": "https://miniappweb3.pionebot.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/earn.png",
     "type": "dapp",
-    "order": 7
+    "slot": "standard",
+    "order": 5,
+    "subLabel": "Staking & Rewards"
   },
   {
-    "id": "pionegenesis",
-    "name": "Faucet",
-    "url": "https://pionegenesis.com",
-    "image": "https://pionegenesis.com/logo.png",
-    "type": "ecosystem",
-    "order": 3
+    "id": "swap",
+    "name": "Pione Swap",
+    "url": "https://pioneswap.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png",
+    "type": "dapp",
+    "slot": "standard",
+    "order": 6,
+    "subLabel": "Cross-chain Bridge",
+    "accentColor": "#0A84FF"
   },
   {
     "id": "explorer_pionechain",
     "name": "Explorer",
     "url": "https://pionescan.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/scan.png",
-    "type": "ecosystem",
-    "order": 9
+    "type": "dapp",
+    "slot": "bottom",
+    "order": 1,
+    "subLabel": "Pione Scan",
+    "accentColor": "#FF453A"
   },
-    {
+  {
     "id": "dream",
     "name": "Pione Dream",
     "url": "https://pionedream.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dream.png",
-    "type": "ecosystem",
-    "order": 10
+    "type": "dapp",
+    "slot": "bottom",
+    "order": 2,
+    "subLabel": "RWAs Investment",
+    "accentColor": "#BF5AF2"
   },
   {
     "id": "ai",
