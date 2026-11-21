@@ -56,10 +56,10 @@
     "order": 7
   },
   {
-    "id": "dream",
-    "name": "Pione Dream",
-    "url": "https://pionedream.com",
-    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dream.png",
+    "id": "pionegenesis",
+    "name": "Faucet",
+    "url": "https://pionegenesis.com",
+    "image": "https://pionegenesis.com/logo.png",
     "type": "ecosystem",
     "order": 8
   },
@@ -70,6 +70,14 @@
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/scan.png",
     "type": "ecosystem",
     "order": 9
+  },
+    {
+    "id": "dream",
+    "name": "Pione Dream",
+    "url": "https://pionedream.com",
+    "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/dream.png",
+    "type": "ecosystem",
+    "order": 10
   },
   {
     "id": "ai",
