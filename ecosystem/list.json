@@ -13,7 +13,7 @@
     "url": "https://pioneswap.com",
     "image": "https://raw.githubusercontent.com/kietpio/assets/refs/heads/main/ecosystem/swap.png",
     "type": "dapp",
-    "order": 3
+    "order": 8
   },
   {
     "id": "rwa_issuers",
@@ -61,7 +61,7 @@
     "url": "https://pionegenesis.com",
     "image": "https://pionegenesis.com/logo.png",
     "type": "ecosystem",
-    "order": 8
+    "order": 3
   },
   {
     "id": "explorer_pionechain",
